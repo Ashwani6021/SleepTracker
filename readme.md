@@ -114,7 +114,7 @@ Welcome to the Sleep Tracker API! This API allows users to effortlessly store an
 
    ```sh
    git clone https://github.com/Ashwani6021/SleepTracker.git
-   cd sleep-tracker
+      cd sleep-tracker
    ```
 
 2. **Install Dependencies:**
